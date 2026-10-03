@@ -1,0 +1,7 @@
+dependencies:
+  flutter:
+    sdk: flutter
+  nearby_connections: ^3.1.0
+  qr_flutter: ^4.1.0
+  mobile_scanner: ^5.2.0
+  permission_handler: ^11.3.0
